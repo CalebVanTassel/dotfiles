@@ -182,5 +182,3 @@ function createFragment(c, position)
 end
 
 return smartBorders
-
-=
