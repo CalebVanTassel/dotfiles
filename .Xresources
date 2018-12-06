@@ -1,0 +1,48 @@
+*scrollBar: false
+*internalBorder: 20
+
+*font: -windows-dina-medium-r-normal--10-80-96-96-c-70-iso8859-1
+*boldFont: -windows-dina-medium-r-normal--10-80-96-96-c-70-iso8859-1
+
+! special
+#*.foreground:   #373b41
+*.foreground:   #ffffff
+#*.background:   #ffffff
+*.background: 	#0F0F0F 
+*.cursorColor:  #373b41
+
+! black
+*.color0:       #1d1f21
+*.color8:       #969896
+
+! red
+*.color1:       #cc342b
+*.color9:       #cc342b
+
+! green
+*.color2:       #198844
+*.color10:      #198844
+
+! yellow
+*.color3:       #fba922
+*.color11:      #fba922
+
+! blue
+*.color4:       #3971ed
+*.color12:      #3971ed
+
+! magenta
+*.color5:       #a36ac7
+*.color13:      #a36ac7
+
+! cyan
+*.color6:       #3971ed
+*.color14:      #3971ed
+
+! white
+#*.color7:       #373b41
+#*.color15:      #ffffff
+
+*.color7:       #ffffff
+*.color15:      #ffffff
+
